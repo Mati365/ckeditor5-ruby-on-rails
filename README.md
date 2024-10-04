@@ -5,7 +5,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mati365/ckeditor5-rails?style=flat-square)
 [![GitHub issues](https://img.shields.io/github/issues/mati365/ckeditor5-rails?style=flat-square)](https://github.com/Mati365/ckeditor5-rails/issues)
 
-Unofficial CKEditor 5 React on Rails integration.
+Unofficial CKEditor 5 Ruby on Rails integration.
 
 ## License
 

@@ -5,7 +5,7 @@ require 'ckeditor5_rails/version'
 
 Gem::Specification.new do |s|
   s.name = 'ckeditor5-rails'
-  s.version = RailsCriticalCss::VERSION
+  s.version = CKEditor5Rails::VERSION
   s.platform = Gem::Platform::RUBY
   s.summary = 'CKEditor 5 for Rails'
   s.authors = [
@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.license = 'MIT'
   s.email = 'cziken58@gmail.com'
-  s.homepage = 'https://github.com/Mati365/rails-critical-css'
+  s.homepage = 'https://github.com/Mati365/ckeditor5-rails'
   s.files = `git ls-files`.split("\n")
   s.executables  = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
   s.require_paths = ['lib']

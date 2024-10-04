@@ -24,6 +24,14 @@ gem 'ckeditor5-rails'
 - [ ] Add support for CKEditor 5 Collaboration.
 - [ ] Add support for SSR.
 
+## :construction: Planned usage
+
+Classic editor:
+
+```slim
+= render ckeditor5_rails :classic, id: 'editor', config: { toolbar: 'bold italic | link' }
+```
+
 ## License
 
 The MIT License (MIT)

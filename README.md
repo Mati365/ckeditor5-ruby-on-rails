@@ -7,6 +7,22 @@
 
 Unofficial CKEditor 5 Ruby on Rails integration.
 
+## Install
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'ckeditor5-rails'
+```
+
+## :construction: Planned features
+
+- [ ] Add support for CKEditor 5 `Classic` / `Multi-Root` / `Balloon` / `Inline` / `Document editors`.
+- [ ] Add support for CKEditor 5 Watchdog and Context.
+- [ ] Add support for CKEditor 5 CDN and NPM packages.
+- [ ] Add support for CKEditor 5 Collaboration.
+- [ ] Add support for SSR.
+
 ## License
 
 The MIT License (MIT)

@@ -13,7 +13,7 @@ Unofficial CKEditor 5 Ruby on Rails integration.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ckeditor5-rails'
+gem 'ckeditor5'
 ```
 
 ## :construction: Planned features
@@ -29,7 +29,7 @@ gem 'ckeditor5-rails'
 Classic editor:
 
 ```slim
-= render ckeditor5_rails :classic, id: 'editor', config: { toolbar: 'bold italic | link' }
+= render ckeditor5 :classic, id: 'editor', config: { toolbar: 'bold italic | link' }
 ```
 
 ## License

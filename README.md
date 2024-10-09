@@ -1,4 +1,4 @@
-# ckeditor5-rails
+# ckeditor5
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 ![Gem Version](https://img.shields.io/gem/v/ckeditor5-rails?style=flat-square)

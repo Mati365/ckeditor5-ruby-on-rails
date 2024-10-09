@@ -1,11 +1,11 @@
 lib = File.expand_path('lib', __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
-require 'ckeditor5_rails/version'
+require 'ckeditor5/version'
 
 Gem::Specification.new do |s|
-  s.name = 'ckeditor5-rails'
-  s.version = CKEditor5Rails::VERSION
+  s.name = 'ckeditor5'
+  s.version = CKEditor5::VERSION
   s.platform = Gem::Platform::RUBY
   s.summary = 'CKEditor 5 for Rails'
   s.authors = [
